@@ -1,0 +1,38 @@
+body {
+    display: grid;
+    justify-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  
+  
+   button {
+    width: 100px;
+    height: 5vh;
+    color: white;
+  }
+  
+  #green {
+    background-color: green;
+  }
+  
+  #red {
+    background-color: red;
+  }
+  
+  #blue {
+    background-color: blue;
+  }
+  
+
+  
+  #new-option {
+    position: absolute;
+    bottom: 30vh;
+    right: 45vw;
+  }
+  
+  #new-option button {
+    color: black;
+  }
