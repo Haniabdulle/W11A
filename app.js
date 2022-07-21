@@ -1,6 +1,3 @@
-
-// This function is setting the cookie 
-
 function setCookie( color ){
     Cookies.set('color', color);
     let color_text = document.getElementById("chosen-color");
