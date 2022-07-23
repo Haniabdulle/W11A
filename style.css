@@ -2,8 +2,8 @@ body {
     display: grid;
     justify-items: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+     align-items: center;
   }
   
   
@@ -27,12 +27,4 @@ body {
   
 
   
-  #new-option {
-    position: absolute;
-    bottom: 30vh;
-    right: 45vw;
-  }
   
-  #new-option button {
-    color: black;
-  }
